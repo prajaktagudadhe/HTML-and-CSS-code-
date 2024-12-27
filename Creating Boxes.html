@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        table, th, td {
+            border: 1px solid black;
+            border-collapse: collapse;
+        }
+        td {
+            height: 50px;
+            width: 50px;
+        }
+    </style>
+    <title>Complex Table Layout</title>
+</head>
+<body>
+
+<table>
+    <tr>
+        <td colspan="3"></td>
+        <td colspan="2"></td>
+        <td></td>
+        <td colspan="3"></td>
+    </tr>
+    <tr>
+        <td colspan="2" rowspan="2"></td>
+        <td></td>
+        <td rowspan="2"></td>
+        <td rowspan="2"></td>
+        <td colspan="2"></td>
+        <td rowspan="2"></td>
+    </tr>
+    <tr>
+        <td colspan="2"></td>
+        <td colspan="2" rowspan="2"></td>
+    </tr>
+    <tr>
+        <td colspan="3"></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td colspan="2"></td>
+    </tr>
+    <tr>
+        <td rowspan="2"></td>
+        <td colspan="3"></td>
+        <td></td>
+        <td colspan="2"></td>
+        <td rowspan="2"></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td colspan="2"></td>
+    </tr>
+    <tr>
+        <td colspan="3"></td>
+        <td></td>
+        <td></td>
+        <td colspan="3"></td>
+    </tr>
+</table>
+
+</body>
+</html>
