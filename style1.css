@@ -1,0 +1,10 @@
+*{
+    font-family: monospace;
+    background-color: blanchedalmond;
+    color: blue;
+}
+p,h1,h2,div{
+    background-color: brown;
+    color: yellow;
+    font-size: 50px;
+}
