@@ -1,0 +1,17 @@
+/* .parent{
+    height: 100vh;
+    width: 100%;
+    background-color: aliceblue;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.parent i{
+    font-size: 150px;
+}
+.parent i :nth-child(1){
+    color: antiquewhite;
+}
+.parent i :nth-child(){
+    color: blueviolet;
+} */
