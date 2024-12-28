@@ -1,0 +1,13 @@
+
+section b :last-of-type{
+    background-color: aqua;
+}
+section p :first-of-type{
+    background-color:blue;
+}
+section b :first-child{
+    background-color:purple;
+}
+section b :nth-of-type(){
+    background-color:pink;
+}
