@@ -1,0 +1,20 @@
+.box{
+
+}
+.box p{
+    font-size: 20px;
+    text-align: justify;
+    text-decoration: underline;
+    text-transform:lowercase ;
+    text-shadow: 3px  2px 3px chartreuse;
+    text-indent: 200px;
+    text-decoration-line:underline ;
+    text-decoration-color: red;
+    text-underline-Offset:10px;
+    text-wrap: pretty:
+    text-emphasis: triangle;
+    text-emphasis-color: red
+
+
+
+}
