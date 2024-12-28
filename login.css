@@ -1,0 +1,24 @@
+.parent{
+    margin: 0%;
+    box-sizing: border-box;
+}
+.parent{
+    height: 100vh;
+    width: 100%;
+    background-color: salmon;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.parent .main{
+    height: 500px;
+    width: 800px;
+    background-color: royalblue;
+}
+
+.parent .main .first .second{
+    height: 500px;
+    width:400px;
+    background-color: aliceblue;
+    border: 1px solid black;
+}
