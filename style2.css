@@ -1,0 +1,15 @@
+.box{
+    height: 400px;
+    width: 500px;
+    background-color: bisque;
+}
+img{
+    height: 200px;
+    width: 200px;
+}
+.box img{
+    border: 10px solid black;
+}
+/* .box > images{
+border : 10px solid black;
+}*/
