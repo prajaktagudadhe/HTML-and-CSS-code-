@@ -1,0 +1,17 @@
+.parent{
+    height:300px ;
+    width: ;
+    background-color:yellowgreen ;
+    position: relative;
+    top: 150px; ;
+    left: 100px; ;
+    padding: 100px; ;
+}
+.parent .child{
+    height: 300px; ;
+    width: 200px; ;
+    background-color:red ;
+    display: inline-block;
+    padding: left 70px;` ;
+    margin:20px ;
+}
