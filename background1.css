@@ -1,0 +1,23 @@
+body{
+   background-image: url(https://media.istockphoto.com/id/1317323736/photo/a-view-up-into-the-trees-direction-sky.jpg?s=612x612&w=0&k=20&c=i4HYO7xhao7CkGy7Zc_8XSNX_iqG0vAwNsrH1ERmw2Q=);
+   background-repeat: no-repeat;
+   background-size: 100% 100vh;
+   height:1000px; 
+   background-attachment: fixed ;
+}
+.box{
+    height:370px ;
+    width: 450px;
+    background-color: ;
+    border: 10px solid black;
+    padding: 50px;
+    background-image:url(https://images.pexels.com/photos/355508/pexels-photo-355508.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-size:cover ;
+    background-size: cover;
+    background-size: 450px 370px;
+    background-position: center;
+    background-blend-mode: color;
+    background-clip: content-box;
+    background-clip: padding-box;
+    background-size: border-box;
+}
